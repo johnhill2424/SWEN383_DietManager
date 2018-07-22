@@ -1,0 +1,219 @@
+commit 02fee024194414a4f7b27f3b61157140ab360b42
+Author: Iris0316 <32991931+Iris0316@users.noreply.github.com>
+Date:   Wed Feb 21 18:26:18 2018 -0500
+
+    Class diagram
+
+commit 55567805632ec7eed39c807a3b460c85c9035c8d
+Author: Iris0316 <32991931+Iris0316@users.noreply.github.com>
+Date:   Wed Feb 21 18:25:40 2018 -0500
+
+    Delete a6class.pdf
+
+commit 1b5c5087ca7ba10e05805481b2d13ed425965f99
+Author: Iris0316 <32991931+Iris0316@users.noreply.github.com>
+Date:   Wed Feb 21 18:25:14 2018 -0500
+
+    Class Diagram
+
+commit f9eb359b36f2cb107f0727d42a36fd34e3c0f8e6
+Author: endersbyt <endersbyt@gmail.com>
+Date:   Wed Feb 21 16:54:20 2018 -0500
+
+    Create KelvinTempSensorAdapter class
+
+commit d1cc160150691c2d2d0960fc480930b863375aa9
+Author: Iris0316 <32991931+Iris0316@users.noreply.github.com>
+Date:   Tue Feb 20 18:45:48 2018 -0500
+
+    ITempSensor & KelvinTempSensor updated
+
+commit e83ecfbc5c52da07f42e19adcc96ffedb1312172
+Author: John Hill <jxh6494@rit.edu>
+Date:   Mon Feb 19 17:02:55 2018 -0500
+
+    Step 6 on Activity 6
+    
+    Step 6 on Activity 6. Changed the main in SwingUI to inject the new interface sensor objects.
+
+commit d57af75d6cee5fb4c30ac5c8bbb5b7c089efc113
+Author: endersbyt <endersbyt@gmail.com>
+Date:   Mon Feb 19 16:54:52 2018 -0500
+
+    Update gitignore to ignore IntelliJ config files
+
+commit 73e7dafb3a66670daeabbbd729f82f6787840cb5
+Merge: d0fcaca a9f8834
+Author: endersbyt <endersbyt@gmail.com>
+Date:   Mon Feb 19 16:52:07 2018 -0500
+
+    Merge branch 'master' of https://github.com/RIT-SWEN-383-01/term-project-2175-swen-383-01-a-teamone
+
+commit a9f88345dc3c915e9f2720bf99c085168ce8fadc
+Author: Anna Jacobsen <aj4693@rit.edu>
+Date:   Mon Feb 19 16:51:40 2018 -0500
+
+    Added injection to WeatherStation
+    
+    Added injection to the WeatherStation constructor. Constructor now takes two interface objects for parameters (IBarometer and ITempSensor).
+
+commit d0fcaca7ada6630dacf01c2ddc20c94cd4bbdb79
+Author: endersbyt <endersbyt@gmail.com>
+Date:   Mon Feb 19 16:50:57 2018 -0500
+
+    Barometer class implements the IBarometer class
+
+commit 44a80ed9171b700b7bd7d4fbf40cb11fd8535627
+Author: Abigail Sands <32300352+als6301@users.noreply.github.com>
+Date:   Mon Feb 19 16:46:46 2018 -0500
+
+    Created Barometer Interface
+    
+    Step 1 for Activity 6
+
+commit 21675bc8185513f0252bd6022c942ac583466781
+Author: Iris0316 <32991931+Iris0316@users.noreply.github.com>
+Date:   Mon Feb 12 18:49:44 2018 -0500
+
+    Added infor
+    
+    Added Info
+
+commit ce77379589fbfbd3c4f37f8eca78b4bafc1918ac
+Author: Iris0316 <32991931+Iris0316@users.noreply.github.com>
+Date:   Mon Feb 12 18:41:41 2018 -0500
+
+    Added name
+    
+    Added my name
+
+commit 62f09c70ca967f4bf4dad86379440f292d516432
+Author: endersbyt <endersbyt@gmail.com>
+Date:   Mon Feb 12 16:53:53 2018 -0500
+
+    Add sequence diagram
+
+commit 523dd2fd369372212a49a7722b4e0ddcbf146c4a
+Author: John Hill <jxh6494@rit.edu>
+Date:   Mon Feb 12 16:51:13 2018 -0500
+
+    Added code from activity 3b
+    
+    Added java source code from activity 3b
+
+commit 4167f4e4037f7fb243d1fb6ee6276106dc4f6c39
+Merge: dfab5ff a7c091a
+Author: John Hill <jxh6494@rit.edu>
+Date:   Mon Feb 12 16:47:06 2018 -0500
+
+    Merge branch 'master' of https://github.com/RIT-SWEN-383-01/term-project-2175-swen-383-01-a-teamone
+
+commit dfab5ff312e8f215cec3765b0257faa6ca304913
+Author: John Hill <jxh6494@rit.edu>
+Date:   Mon Feb 12 16:46:17 2018 -0500
+
+    added member info
+    
+    added member info
+
+commit a7c091a50f9cb769e78a210c9910849f60bdb685
+Merge: 91066ab d32e6a5
+Author: Anna Jacobsen <aj4693@rit.edu>
+Date:   Mon Feb 12 16:46:14 2018 -0500
+
+    Merge branch 'master' of https://github.com/RIT-SWEN-383-01/term-project-2175-swen-383-01-a-teamone
+
+commit 91066ab94663c5d3d8df4533fe8b04d44ac027ce
+Author: Anna Jacobsen <aj4693@rit.edu>
+Date:   Mon Feb 12 16:46:11 2018 -0500
+
+    Added information to the members.txt
+    
+    Added my information to the members.txt file.
+
+commit d32e6a5aef0f9c920812cba603e14f3343c3abd1
+Author: Abigail Sands <32300352+als6301@users.noreply.github.com>
+Date:   Mon Feb 12 16:45:57 2018 -0500
+
+    Added my info
+    
+    idk
+
+commit 4ef768c819f96eed4d98808d60cf7dcb860e2f18
+Author: endersbyt <endersbyt@gmail.com>
+Date:   Mon Feb 12 16:44:11 2018 -0500
+
+    Add UML diagram
+
+commit 725f59bc27d764d179ff2e9b5ddc750465e4022f
+Merge: 076fa74 92d39e6
+Author: endersbyt <endersbyt@gmail.com>
+Date:   Mon Feb 12 16:40:47 2018 -0500
+
+    Merge branch 'master' of https://github.com/RIT-SWEN-383-01/term-project-2175-swen-383-01-a-teamone
+
+commit 076fa7445ec7da874b9ab3d8f28f56da9cf82976
+Author: endersbyt <endersbyt@gmail.com>
+Date:   Mon Feb 12 16:40:35 2018 -0500
+
+    Made members.txt file
+
+commit 92d39e6c8971726ea51c717e88fbdf444aaca1c9
+Author: John Hill <jxh6494@rit.edu>
+Date:   Mon Feb 12 16:36:43 2018 -0500
+
+    added my name
+    
+    added my name
+
+commit 19632f39a76f21fe6452ed0070435852f63efefa
+Author: endersbyt <endersbyt@gmail.com>
+Date:   Mon Feb 12 16:29:00 2018 -0500
+
+    Added my name
+
+commit 58593b086144c1ebe916dad439bc2b7821400e12
+Merge: 471c248 94cbcd2
+Author: Abigail Sands <32300352+als6301@users.noreply.github.com>
+Date:   Mon Feb 12 16:27:51 2018 -0500
+
+    Merge branch 'master' of https://github.com/RIT-SWEN-383-01/term-project-2175-swen-383-01-a-teamone
+
+commit 471c2482c6d75d9be62357de5a9ec875e4c04ad5
+Author: Abigail Sands <32300352+als6301@users.noreply.github.com>
+Date:   Mon Feb 12 16:26:54 2018 -0500
+
+    Added my name.
+    
+    What it says up there.
+
+commit 94cbcd2f2ff793d34f03d275d937648b209a32ee
+Merge: 914ab2f fe8abee
+Author: John Hill <jxh6494@rit.edu>
+Date:   Mon Feb 12 16:22:10 2018 -0500
+
+    Merge branch 'John's-branch'
+
+commit fe8abee1be05eecb520ac94827ba585e5894b334
+Author: John Hill <jxh6494@rit.edu>
+Date:   Mon Feb 12 16:20:09 2018 -0500
+
+    Added name
+    
+    Added name to readme.md
+
+commit 914ab2f02fead9ebd80118e09946c9c8c5334a8b
+Author: Anna Jacobsen <aj4693@rit.edu>
+Date:   Mon Feb 12 16:17:59 2018 -0500
+
+    Added Team section and my name.
+    
+    Added team section to the readme file and added my name.
+
+commit babd955bb37b4ee2c094c64c4a8fef2738d419ce
+Author: Anna Jacobsen <aj4693@rit.edu>
+Date:   Mon Feb 12 16:09:16 2018 -0500
+
+    Create README.md
+    
+    Created a README file
